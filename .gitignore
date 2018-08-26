@@ -1,3 +1,6 @@
+#Node
+node_modules
+*.vsix
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
 *.a

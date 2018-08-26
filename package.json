@@ -1,11 +1,11 @@
 {
-    "name": "missingno",
-    "displayName": "Missingno Theme",
+    "name": "theme-missingno",
+    "displayName": "missingno",
     "description": "Missngno Theme made with grit.",
     "version": "0.0.1",
     "publisher": "Nejohnson88",
     "engines": {
-        "vscode": "^1.26.1"
+        "vscode": "^1.26.0"
     },
     "categories": [
         "Themes"
@@ -21,7 +21,7 @@
             {
                 "label": "Missingno",
                 "uiTheme": "vs-dark",
-                "path": "./themes/missingno-theme.json"
+                "path": "./themes/Missingno-color-theme.json"
             }
         ]
     }
