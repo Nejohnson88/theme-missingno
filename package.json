@@ -1,0 +1,28 @@
+{
+    "name": "Missingno",
+    "displayName": "Missingno Theme",
+    "description": "Missngno Theme made with grit.",
+    "version": "0.0.1",
+    "publisher": "Nejohnson88",
+    "engines": {
+        "vscode": "^1.26.1"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "homepage": "https://github.com/nejohnson88/theme-missingno/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nejohnson88/theme-missingno.git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Missingno",
+                "uiTheme": "vs-missingno",
+                "path": "./themes/missingno-theme.json"
+            }
+        ]
+    }
+}
