@@ -1,5 +1,5 @@
 {
-    "name": "Missingno",
+    "name": "missingno",
     "displayName": "Missingno Theme",
     "description": "Missngno Theme made with grit.",
     "version": "0.0.1",
@@ -20,7 +20,7 @@
         "themes": [
             {
                 "label": "Missingno",
-                "uiTheme": "vs-missingno",
+                "uiTheme": "vs-dark",
                 "path": "./themes/missingno-theme.json"
             }
         ]

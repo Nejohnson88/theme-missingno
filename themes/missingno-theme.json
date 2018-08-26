@@ -1,6 +1,33 @@
 {
     "name": "Missingno",
     "type": "dark",
-    "colors": {},
-    "tokenColors": []
+    "colors": {
+        "editor.foreground": "#EDE1E8",
+        "activityBar.background": "#452A54",
+        "activityBar.foreground": "#FEE5F3",
+        "sideBarSectionHeader.background": "#79588B",
+        "button.background": "#452A54",
+        "list.activeSelectionBackground": "#642F4D",
+        "list.hoverBackground": "#642F4D33",
+        "input.border": "#452A54",
+        "inputOption.activeBorder": "#79588B",
+        "focusBorder": "#79588B",
+        "editor.selectionBackground": "#642F4D",
+        "editor.selectionHighlightBackground": "#642F4D4D",
+        "scrollbarSlider.activeBackground": "#452A54",
+        "scrollbarSlider.hoverBackground": "#452A5499"
+    },
+    "tokenColors": [
+        {
+            "name": "Comments",
+            "scope": [
+                "comment",
+                "punctuation.definition.comment"
+            ],
+            "settings": {
+                "foreground": "#81C784",
+                "fontStyle": "italic"
+            }
+        }
+    ]
 }
